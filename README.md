@@ -60,6 +60,7 @@ The second goal is to make Cape Verde a country with more technologies and make 
     - http://0.0.0.0:5000/exams
 
 <h3>Author</h3>
+<h3>Ruben de Pina</h4>
 <p><div>
     <a href="mailto: rubenpina758@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/ruben-pina-3851b4235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
