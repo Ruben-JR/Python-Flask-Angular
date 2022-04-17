@@ -20,38 +20,44 @@ The second goal is to make Cape Verde a country with more technologies and make 
 
 <h3>Installers</h3>
 <h4>Backend dependencies</h4>
-
 <p>Install a virtual environment with the following command</p>
+
     - python3 -m pip install --user virtualenv
 
 <p>Create venvs folder put a specific virtual environments for folder to projects with name project</p>
+
     - mkdir ~/.venvs
 
 <p>Next create a folder to put projects environments</p>
+
     - virtualenv ~/.venvs/folderNameProject
 
 <p>Activating a virtual environment</p>
+
     - source ~/.venvs/FolderNameProject/bin/activate
 
 <h4>Frontend dependencies</h4>
-
 <p>Use the following command to install the Angular CLI</p>
+
     - npm install -g @angular/cli
 
 <h4>Managing Entities with SQLAlchemy ORM</h4>
+
     - pipenv install sqlalchemy psycopg2-binary
 
 <h4>Managing HTTP Requests with Flask</h4>
+
     - pipenv install flask marshmallow
-<hr>
 <hr>
 
 <h3>Testing application</h3>
 <p>After you install all the project configuration run the following command on your terminal</p>
+    
     - curl http://0.0.0.0:5000/exams
 
 <p>On your browser paste the url</p>
-    http://0.0.0.0:5000/exams
+
+    - http://0.0.0.0:5000/exams
 
 <h3>Author</h3>
 <p><div>
